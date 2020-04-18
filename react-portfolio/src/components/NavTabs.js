@@ -1,7 +1,8 @@
 import { Link } from "react-router-dom";
 import React from "react";
 
-function NavTabs() {
+function NavTabs(props) {
+  console.log(window.location.pathname, props);
   return (
     <ul className="nav nav-tabs">
       <li className="nav-item">
@@ -11,10 +12,10 @@ function NavTabs() {
             window.location.pathname === `/` ? `nav-link active` : `nav-link`
           }
         >
-          Home
+          Ari Horowitz
         </Link>
       </li>
-      <li className="nav-item">
+      {/* <li className="nav-item">
         <Link
           to="/about"
           className={
@@ -25,7 +26,7 @@ function NavTabs() {
         >
           About
         </Link>
-      </li>
+      </li> */}
       <li className="nav-item">
         <Link
           to="/technicalskills"
