@@ -7,7 +7,7 @@ import Portfolio from "./components/Portfolio";
 import TechnicalSkills from "./components/TechnicalSkills";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
-import About from "./components/About";
+// import About from "./components/About";
 
 class App extends React.Component {
   constructor(props) {
