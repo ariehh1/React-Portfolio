@@ -1,62 +1,61 @@
 {
-  "Name": "Demo User",
-  "Position": "Software Developer",
-  "Description": "Welcome to my website. My name is Demo User,I ❤️ Programming.",
-  "Address": "Vancouver, Canada",
-  "Company": "Future Technologies",
-  "School": "University of Demo",
+  "Name": "Ari Horowitz",
+  "Position": "Future Software Developer",
+  "Description": "Full Stack Web Developer and experienced Data Operations Analyst",
+  "Address": "Seattle, WA",
+  "Company": "Launch Consulting",
+  "School": "University of Oregon",
   "SocialMedias": [
-    "https://github.com/waynezhang1995",
-    "https://www.linkedin.com/in/wayne-zhang-ab5534129/",
-    "https://www.facebook.com/wayne.zhang.3"
+    "https://github.com/ariehh1",
+    "https://www.linkedin.com/in/arihorowitz/"
   ],
   "experiences": [
     {
-      "companyName": "Future Technologies",
+      "companyName": "Launch Consulting - Microsoft",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-      "url": "https://www.google.com/",
+      "url": "https://launchconsulting.com/",
       "roles": [
         {
-          "title": "Software developer",
-          "description": "Developed web-based Software.",
-          "startDate": "2018-01-08",
+          "title": "Data Analyst",
+          "description": "Uphold data integrity and cleanliness within MS Sales and downstream systems",
+          "startDate": "2019-11-15",
           "currentJob": true,
-          "location": "Vancouver BC. Canada"
+          "location": "Seattle, WA"
         }
       ]
     },
     {
-      "companyName": "Demo1 Technologies",
+      "companyName": "Nintex",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-      "url": "https://www.google.com/",
+      "url": "https://www.nintex.com/",
       "roles": [
         {
-          "title": "Full Stack Developer",
-          "description": "Built and updated various Chrome Extensions.",
-          "startDate": "2017-01-01",
-          "endDate": "2017-05-01",
-          "location": "New York, USA"
+          "title": "Customer Renewals Manager",
+          "description": "Ensured timely communication, accuracy, and execution of customer renewals",
+          "startDate": "2019-07",
+          "endDate": "2019-11",
+          "location": "Bellevue, WA"
         }
       ]
     },
     {
-      "companyName": "Demo2 Technologies",
+      "companyName": "Microsoft - Bing Ads",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-      "url": "https://www.google.com/",
+      "url": "https://ads.microsoft.com/",
       "roles": [
         {
-          "title": "UI Designer",
-          "description": "Design user-fridendly web page",
-          "startDate": "2016-05-01",
-          "endDate": "2016-09-01",
-          "location": "Beijing, China"
+          "title": "SEM Operations Analyst",
+          "description": "Data and reporting analyst for clients spending over $50k/month on paid search",
+          "startDate": "2017-03",
+          "endDate": "2019-07",
+          "location": "Seattle, WA"
         }
       ]
     }
   ],
   "Skills": [
     {
-      "Area": "Programming Language",
+      "Area": "Programming Languages",
       "SkillSet": [
         {
           "Name": "Java",
