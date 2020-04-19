@@ -1,16 +1,13 @@
-import React from "react";
-import { BrowserRouter as Router } from "react-router-dom";
+import React, { Component } from "react";
 import InfoPanel from "./components/info-panel/InfoPanel";
 import DetailTabPanel from "./components/detail-tabpanel/DetailTabPanel";
 
-class App extends Router {
+class App extends Component {
   render() {
     return (
       <div className="App">
-        <Router>
-          <InfoPanel></InfoPanel>
-          <DetailTabPanel></DetailTabPanel>
-        </Router>
+        <InfoPanel></InfoPanel>
+        <DetailTabPanel></DetailTabPanel>
       </div>
     );
   }
