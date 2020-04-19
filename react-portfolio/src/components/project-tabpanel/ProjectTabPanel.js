@@ -77,7 +77,16 @@ class ProjectTabPanel extends Component {
                         color="primary"
                         onClick={() => window.open(project.ProjectLink)}
                       >
-                        View Detail
+                        View Project
+                      </Button>
+                      <Button
+                        className={styles.openDetail}
+                        variant="contained"
+                        size="large"
+                        color="primary"
+                        onClick={() => window.open(project.GithubLink)}
+                      >
+                        View Github
                       </Button>
                     </CardActions>
                   </Card>

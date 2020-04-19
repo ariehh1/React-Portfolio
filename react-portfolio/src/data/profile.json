@@ -163,39 +163,45 @@
   "Projects": [
     {
       "Name": "Pocket Bartender",
-      "Description": "Personal inventory tracker and cocktail recipe inspiration",
-      "ScreenShotURL": "./demo.svg",
-      "ProjectLink": "https://ariehh1.github.io/pocket-bartender/"
+      "Description": "Personal liquor inventory tracker and cocktail recipe inspiration!",
+      "ScreenShotURL": "./Pocket-Bartender.png",
+      "ProjectLink": "https://ariehh1.github.io/pocket-bartender/",
+      "GithubLink": "https://github.com/ariehh1/pocket-bartender"
     },
     {
-      "Name": "Demo Project 2",
-      "Description": "Demo",
-      "ScreenShotURL": "./demo.svg",
-      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+      "Name": "Dungeons & Dragons Character Generator",
+      "Description": "Character generator simulation within the Dungeons & Dragons game.",
+      "ScreenShotURL": "./dd.png",
+      "ProjectLink": "https://chargenproj.herokuapp.com/",
+      "GithubLink": "https://github.com/ariehh1/project2"
     },
     {
-      "Name": "Demo Project 3",
-      "Description": "Demo",
-      "ScreenShotURL": "./demo.svg",
-      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+      "Name": "Employee Directory",
+      "Description": "An Employee Directory built for a manager or other employees to view non-sensitive data. Utilized a React Front-End.",
+      "ScreenShotURL": "./employee.png",
+      "ProjectLink": "https://ariehh1.github.io/Employee-Directory/",
+      "GithubLink": "https://github.com/ariehh1/Employee-Directory"
     },
     {
-      "Name": "Demo Project 4",
-      "Description": "Demo",
-      "ScreenShotURL": "./demo.svg",
-      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+      "Name": "Budget Tracker",
+      "Description": "A Budget Tracker application designed for the user to add their expenses and deposits with or without an internet connection. Progressive Web Application powered by IndexedDB.",
+      "ScreenShotURL": "./moneyicon192x192.png",
+      "ProjectLink": "https://aqueous-eyrie-65339.herokuapp.com/",
+      "GithubLink": "https://github.com/ariehh1/Budget-Tracker"
     },
     {
-      "Name": "Demo Project 5",
-      "Description": "Demo",
-      "ScreenShotURL": "./demo.svg",
-      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+      "Name": "Burger Appliction",
+      "Description": "Restaurant app that allows users to input the name of a burger they enjoy.",
+      "ScreenShotURL": "./burger.png",
+      "ProjectLink": "https://glacial-atoll-54265.herokuapp.com/",
+      "GithubLink": "https://github.com/ariehh1/Burger"
     },
     {
-      "Name": "Demo Project 6",
-      "Description": "Demo",
-      "ScreenShotURL": "./demo.svg",
-      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+      "Name": "Note Taker",
+      "Description": "Write, save, and delete any note.",
+      "ScreenShotURL": "./note.png",
+      "ProjectLink": "https://ariehh1-note-taker.herokuapp.com/",
+      "GithubLink": "https://github.com/ariehh1/Note-Taker"
     }
   ],
   "Education": [
