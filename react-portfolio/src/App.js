@@ -7,8 +7,10 @@ class App extends Router {
   render() {
     return (
       <div className="App">
-        <InfoPanel></InfoPanel>
-        <DetailTabPanel></DetailTabPanel>
+        <Router>
+          <InfoPanel></InfoPanel>
+          <DetailTabPanel></DetailTabPanel>
+        </Router>
       </div>
     );
   }
