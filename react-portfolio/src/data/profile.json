@@ -12,7 +12,7 @@
   "experiences": [
     {
       "companyName": "Launch Consulting - Microsoft",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+      "logo": "../../img/Ari.jpeg",
       "url": "https://launchconsulting.com/",
       "roles": [
         {
@@ -74,25 +74,21 @@
           "Hot": true
         },
         {
-          "Name": "Redux",
-          "Hot": false
-        },
-        {
           "Name": "JQuery",
-          "Hot": false
+          "Hot": true
         },
         {
           "Name": "NPM",
-          "Hot": false
+          "Hot": true
         },
         {
           "Name": "WebPack",
-          "Hot": false
+          "Hot": true
         }
       ]
     },
     {
-      "Area": "Database",
+      "Area": "Databases",
       "SkillSet": [
         {
           "Name": "MongoDB",
@@ -100,6 +96,52 @@
         },
         {
           "Name": "MySQL",
+          "Hot": true
+        },
+        {
+          "Name": "Sequelize",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Software Development Tools and Concepts",
+      "SkillSet": [
+        {
+          "Name": "Agile",
+          "Hot": true
+        },
+        {
+          "Name": "MERN",
+          "Hot": true
+        },
+        {
+          "Name": "Model View Controller (MVC)",
+          "Hot": true
+        },
+        {
+          "Name": "Progressive Web Apps (PWA)",
+          "Hot": true
+        }
+      ]
+    },
+    {
+      "Area": "Test Driven Development",
+      "SkillSet": [
+        {
+          "Name": "Jest",
+          "Hot": true
+        },
+        {
+          "Name": "Mocha",
+          "Hot": true
+        },
+        {
+          "Name": "Chai",
+          "Hot": true
+        },
+        {
+          "Name": "Continuous Integration",
           "Hot": true
         }
       ]
@@ -109,56 +151,10 @@
       "SkillSet": [
         {
           "Name": "Windows",
-          "Hot": false
-        },
-        {
-          "Name": "Unix/Linux",
-          "Hot": false
+          "Hot": true
         },
         {
           "Name": "Mac OS",
-          "Hot": false
-        }
-      ]
-    },
-    {
-      "Area": "Test Driven Development",
-      "SkillSet": [
-        {
-          "Name": "Junit Test",
-          "Hot": false
-        },
-        {
-          "Name": "Jasmine Test",
-          "Hot": true
-        },
-        {
-          "Name": "MSTest",
-          "Hot": false
-        },
-        {
-          "Name": "Selenium Functional Test",
-          "Hot": false
-        }
-      ]
-    },
-    {
-      "Area": "Software Development Tools and Concepts",
-      "SkillSet": [
-        {
-          "Name": "Git",
-          "Hot": true
-        },
-        {
-          "Name": "Docker",
-          "Hot": false
-        },
-        {
-          "Name": "Jenkins",
-          "Hot": false
-        },
-        {
-          "Name": "Agile",
           "Hot": true
         }
       ]
@@ -166,10 +162,10 @@
   ],
   "Projects": [
     {
-      "Name": "Demo Project 1",
-      "Description": "Demo",
+      "Name": "Pocket Bartender",
+      "Description": "Personal inventory tracker and cocktail recipe inspiration",
       "ScreenShotURL": "./demo.svg",
-      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+      "ProjectLink": "https://ariehh1.github.io/pocket-bartender/"
     },
     {
       "Name": "Demo Project 2",
@@ -182,17 +178,34 @@
       "Description": "Demo",
       "ScreenShotURL": "./demo.svg",
       "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+    },
+    {
+      "Name": "Demo Project 4",
+      "Description": "Demo",
+      "ScreenShotURL": "./demo.svg",
+      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+    },
+    {
+      "Name": "Demo Project 5",
+      "Description": "Demo",
+      "ScreenShotURL": "./demo.svg",
+      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
+    },
+    {
+      "Name": "Demo Project 6",
+      "Description": "Demo",
+      "ScreenShotURL": "./demo.svg",
+      "ProjectLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg"
     }
   ],
   "Education": [
     {
-      "SchoolName": "University of Demo",
-      "Date": "2013 - 2017",
-      "Degree": "Bachelor of Science - BS, Computer Science",
-      "Location": "Vancouver BC. Canada",
-      "Description": "Demo",
+      "SchoolName": "University of Oregon",
+      "Date": "2013",
+      "Degree": "Environmental Studies and Business Administration",
+      "Location": "Eugene, OR",
       "SchoolImage": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
-      "SchoolLink": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+      "SchoolLink": "https://www.uoregon.edu/",
       "Awards": [
         {
           "Name": "Award 1",
