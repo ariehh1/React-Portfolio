@@ -45,7 +45,7 @@
 }
 
 .infoGrid .socialMediasIcon {
-  margin: 0 20px;
+  margin: 10px;
 }
 
 .infoList span {
@@ -53,6 +53,7 @@
 }
 
 .infoList .infoIcon {
-  color: #00653a;
+  color: #303f9f;
   background-color: white;
+  margin: 5px;
 }

@@ -3,7 +3,6 @@ import { Container, Row, Col } from "reactstrap";
 import profile from "../../data/profile";
 import moment from "moment";
 import { Media } from "reactstrap";
-
 import styles from "./ExperiencePanel.module.css";
 
 class ExperiencePanel extends Component {
@@ -28,9 +27,9 @@ class ExperiencePanel extends Component {
                   <Media className={styles.media}>
                     <Media left top href={experience.url}>
                       <Media
-                        object
-                        src={experience.logo}
-                        alt={experience.companyName}
+                      // object
+                      // src={experience.logo}
+                      // alt={experience.companyName}
                       />
                     </Media>
                     <Media body>
