@@ -194,11 +194,11 @@
       "GithubLink": "https://github.com/ariehh1/Burger"
     },
     {
-      "Name": "Note Taker",
-      "Description": "Write, save, and delete any note.",
-      "ScreenShotURL": "./note.png",
-      "ProjectLink": "https://ariehh1-note-taker.herokuapp.com/",
-      "GithubLink": "https://github.com/ariehh1/Note-Taker"
+      "Name": "Burger Application",
+      "Description": "Restaurant app that allows users to input the name of a burger they enjoy.",
+      "ScreenShotURL": "./burger.png",
+      "ProjectLink": "https://glacial-atoll-54265.herokuapp.com/",
+      "GithubLink": "https://github.com/ariehh1/Burger"
     }
   ],
   "Education": [
