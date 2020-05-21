@@ -173,6 +173,13 @@
       "GithubLink": "https://github.com/ariehh1/project2"
     },
     {
+      "Name": "Donationally",
+      "Description": "A non-profit charity search and donation application utilizing the full MERN stack.",
+      "ScreenShotURL": "./logo.PNG",
+      "ProjectLink": "https://serene-headland-14339.herokuapp.com/",
+      "GithubLink": "https://github.com/ariehh1/Donation-App---Project-3"
+    },
+    {
       "Name": "Employee Directory",
       "Description": "An Employee Directory built for a manager or other employees to view non-sensitive data. Utilized a React Front-End.",
       "ScreenShotURL": "./employee.png",
@@ -185,13 +192,6 @@
       "ScreenShotURL": "./moneyicon192x192.png",
       "ProjectLink": "https://aqueous-eyrie-65339.herokuapp.com/",
       "GithubLink": "https://github.com/ariehh1/Budget-Tracker"
-    },
-    {
-      "Name": "Burger Appliction",
-      "Description": "Restaurant app that allows users to input the name of a burger they enjoy.",
-      "ScreenShotURL": "./burger.png",
-      "ProjectLink": "https://glacial-atoll-54265.herokuapp.com/",
-      "GithubLink": "https://github.com/ariehh1/Burger"
     },
     {
       "Name": "Burger Application",
